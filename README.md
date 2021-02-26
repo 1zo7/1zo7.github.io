@@ -9,3 +9,11 @@
 [給你一個網址](https://weare301.blogspot.com/)
 
 ![我是圖片](https://www.upmedia.mg/upload/article/20200204112537932608.jpg)
+
+```
+#include <stdio.h>
+int main()
+{
+ printf("hello world");
+}
+```
